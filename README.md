@@ -5,6 +5,7 @@ The data is sourced from NOAA's National Centers for Environmental Information (
 providing a rich dataset for climate research and weather analysis.
 You can check the results of me runnig the code with data, in the picture file 📂.
 The code i wrote is on sitka in Alaska, and TLV in Israel.
+In the data file 📂 you can get the csv file with the needed data, to extract.
 
 <img width="400" alt="13Days_TLV" src="https://github.com/Masanbat12/TempTrack-Visual-Analytics/assets/93978448/9c70ec87-e4ad-40d9-9db3-b4a23d65ba94">
 
